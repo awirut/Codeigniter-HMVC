@@ -1,2 +1,2 @@
-# hmvc
+# Codeigniter HMVC
 Codeigniter PHP Framework
