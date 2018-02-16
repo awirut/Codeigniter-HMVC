@@ -12,7 +12,7 @@ if(FALSE !== strpos($_SERVER['HTTP_HOST'], 'hmvc')){
 	define('SYSTEM_NAME','har');	
 }else{
 	define('ENVIRONMENT','production');
-	define('SYSTEM_NAME','abc');	
+	define('SYSTEM_NAME','break');	
 }
 
 $host_name = explode('.', $_SERVER['HTTP_HOST']);
